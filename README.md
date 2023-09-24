@@ -23,7 +23,7 @@
 
 * Accepting only GIFs, because the webpage was made that way. Still images would also work, but would look off compared to the GIFs, which play when hovered over.
 
-* Create GIFs via [LICEcap]([Cockos Incorporated | LICEcap](https://www.cockos.com/licecap/)) (Windows, macOS), [Peek](https://github.com/phw/peek#peek---an-animated-gif-recorder) (deprecated for Linux) or [gifcap](https://gifcap.dev/) (browser based) software. Use an aspect ratio as close to `16:9` as you can achieve for capturing the GIFs.
+* Create GIFs via [LICEcap](https://www.cockos.com/licecap/) (Windows, macOS), [Peek](https://github.com/phw/peek#peek---an-animated-gif-recorder) (deprecated for Linux) or [gifcap](https://gifcap.dev/) (browser based) software. Use an aspect ratio as close to `16:9` as you can achieve for capturing the GIFs.
   
   * I used LICEcap with capture resolution of `1280` by `720` pixels, keeping the  aspect ratio `16:9`. In the export settings, I set it to stop recording after `5` seconds, resulting in sizes around `2` MB per GIF.
 
