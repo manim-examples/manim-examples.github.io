@@ -2,7 +2,7 @@
 
 * Double spaces are used instead of tabs.
 * `alt` attribute for animated images is automatically copied over from their parent's `title`.
-* **<u>Fixing lazy loading is much needed as it currently seems to have no effect because canvases require their own implementation of it theough Javascript.</u>**
+* **<u>Fixing lazy loading is much needed as it currently seems to have no effect because canvases require their own implementation of it through Javascript.</u>**
 
 ## Adding new tags
 
